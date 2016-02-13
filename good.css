@@ -1,0 +1,81 @@
+div.sidebar {
+
+	background-color: #39F;
+	width: 19%;
+	height: 100%;
+	float: left;
+	font-family: "Times New Roman", Times, serif;
+	font-size: medium;
+	line-height: 2em;
+}
+h1.logo{
+	margin-left: 25%
+	}
+ul {
+	position: fixed;
+	top:0;
+	width: 160%;
+	font-size: 180%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+p{
+	font-size: 110%;
+	font-style: oblique;
+}
+div.detail{
+		margin:10%;
+}
+p.status{
+	font-size: 150%;
+	font-weight: bold;
+}
+p.courses{
+	margin-left: 10%;
+}
+p.intro{
+	line-height: 230%;
+}
+p.aboutme{
+	margin-left:10%;
+}
+table{
+	margin-left: 6%;
+}
+img.self {
+	align-content: left;
+	margin-left: 20%;
+	width: 100%;
+	height: 400px;
+}
+td.img{
+	width: 300px;
+}
+body {
+    background-image: url("image/profileBackground.jpg");
+}
+div.footer {
+	text-align: center;
+}

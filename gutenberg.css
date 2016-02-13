@@ -1,0 +1,57 @@
+body {
+	-webkit-font-smoothing: antialiased;
+	margin-top : 5%;
+	margin-left: 6%;
+	margin-right: 6%;
+    background-image: url("image/background.jpg");
+}
+pre {
+	font-size: 110%;
+	font-weight: bold;
+	font-style: oblique;
+
+}
+h1 {
+	font-family: Verdana, Geneva, sans-serif;
+	text-align: center;
+	font-size: 210%;
+}
+h2 {
+	font-size: 180%;
+}
+h2.author {
+	text-align: center;
+}
+h3.by {
+	font-weight: normal;
+}
+h3.wrapTitle{
+	font-size: 180%;
+}
+h4 {
+	text-align: right;
+}
+p.toc {
+	font-weight: bold;
+}
+p {
+	-webkit-font-smoothing: antialiased;
+	font-size: 150%;
+	font-style: oblique;
+
+}
+a.chapterName{
+	font-style: oblique;
+	-webkit-font-smoothing: antialiased;
+	font-weight: normal;
+}
+a {
+	font-weight: 150;
+}
+p.content{
+	text-align: center;
+}
+td {
+		font-weight: bold;
+		font-size: 150%;
+}

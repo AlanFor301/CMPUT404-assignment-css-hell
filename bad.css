@@ -1,0 +1,16 @@
+div.sidebar {
+	background-color: #39F;
+	width: 19%;
+	height: 100%;
+	float: left;
+	font-family: "Times New Roman", Times, serif;
+	font-size: medium;
+	line-height: 2em;
+}
+h3.whatICanDo{
+	background-image: url("image/what I can do.gif");
+}
+img.self{
+	position: relative;
+	
+}
